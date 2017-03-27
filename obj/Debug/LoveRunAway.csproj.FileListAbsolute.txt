@@ -1,0 +1,10 @@
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\bin\Debug\LoveRunAway.exe.config
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\bin\Debug\LoveRunAway.exe
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\bin\Debug\LoveRunAway.pdb
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.Form1.resources
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.MoveAwayButton.resources
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.Properties.Resources.resources
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.csproj.GenerateResource.Cache
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.exe
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.pdb
+c:\users\gemin\documents\visual studio 2017\Projects\LoveRunAway\LoveRunAway\obj\Debug\LoveRunAway.csprojResolveAssemblyReference.cache
